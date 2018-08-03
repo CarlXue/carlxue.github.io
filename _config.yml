@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'A SONG'
+title:            A SONG
 tagline:          'Song Xue's'
 description:      '<a href="https://songxue.info" target="_blank">Song's Blog</a>'
 url:              https://songx-23.github.io
