@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+title:            'A SONG'
+tagline:          'Song Xue's'
+description:      '<a href="https://songxue.info" target="_blank">Song's Blog</a>'
+url:              https://songx-23.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/CarlXS23
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -35,4 +35,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:           https://github.com/SongX-23
+
+disqus:
+  shortname:      songx
+
+google_analytics: UA-72695843-2
