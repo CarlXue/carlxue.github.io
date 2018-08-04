@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            SONG
 tagline:          'Tech Blog'
-description:      '<a href="https://songxue.info" target="_blank">Song\'s Blog</a>'
+description:      'A fun tech blog. Check out my <a href="https://songxue.info" target="_blank">portfolio</a> here.'
 url:              https://songx-23.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
