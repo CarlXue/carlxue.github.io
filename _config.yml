@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            A SONG
-tagline:          'Song Xue's'
-description:      '<a href="https://songxue.info" target="_blank">Song's Blog</a>'
+title:            SONG
+tagline:          'Tech Blog'
+description:      '<a href="https://songxue.info" target="_blank">Song\'s Blog</a>'
 url:              https://songx-23.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Song Xue'
   url:            https://twitter.com/CarlXS23
 
 paginate:         5
